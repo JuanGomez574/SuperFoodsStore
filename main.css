@@ -1,0 +1,205 @@
+body {
+    background-color: cadetblue;
+    margin: 0;
+    font-size: medium;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+nav#userSpecific {
+    font-size: 1.4em;
+    background-color: rgb(8, 8, 102);
+    width: 522px;
+    margin: 0px 0px;
+    position: relative;
+    left: -30px;
+}
+#userSpecific a {
+    text-decoration: none;
+    margin-right: 57px;
+    margin-left: -37px;
+}
+#userSpecific input {
+    width: 202px;
+}
+nav#navigation {
+    font-size: 2em;
+    background-color: rgb(32, 82, 110);
+}
+nav#socialMedia ul {
+    position: relative;
+    left: -41px;
+}
+nav#socialMedia li {
+    display: inline-block;
+}
+nav#socialMedia {
+    background-color: rgb(8, 8, 102);
+    width: 35px;
+    top: -22px;
+    position: relative;
+    left: -30px;
+}
+h1 {
+    color:darkviolet;
+    font-size: 1.2em;
+}
+h1#storeName {
+    font-size: 6.5em;
+    text-align: center;
+    margin: -87px 0px 0px 0px;
+    color: rgba(41, 14, 158, 0.596);
+}
+h2 {
+    color: rgb(36, 58, 22);
+    font-size: 1em;
+    text-align: center;
+}
+a, a:visited {
+    color: blue;
+}
+a:hover {
+    color:darkgoldenrod;
+}
+.contentWrapper {
+    margin: 0 30px;
+}
+#userSpecific li {
+    display: inline-block;
+}
+nav#navigation li {
+    display: inline-block;
+    margin: 0 2.5em 0 3.5em;    
+}
+#navigation a {
+    text-decoration: none;
+}
+#sidebar {
+    height: 533px;
+    width: 273px;
+    background-color: rgba(216, 156, 122, 0.856);
+    position: relative;
+    top: 66px;   
+}
+#sidebar ol li {
+    margin: 0px 0px 40px 0px;
+}
+section#foods {
+    position: relative;
+    margin: -34em 0em 0em 0em;
+    width: 1114px;
+    left: 19em;   
+}
+#foods h1 {
+    text-align: center;
+    position: relative;
+    left: 31px;
+    font-size: 2em;
+}
+#foods h2 {
+    text-align: center;
+}
+#foods div {
+    display: inline-block;
+    margin: 7em 0em 5em 7em;
+}
+.centerButton {
+    position: absolute;
+    left: 347px;
+    top: 433px; 
+    
+}
+.buttons {
+    font-size: 4.4em;
+    color: rgb(20, 36, 82);
+    border: solid 1px blue;
+    background-color: slategray;
+}
+button:hover {
+    background-color: turquoise;
+}
+#healthy {
+    margin: 3em 0em 0em 0em;
+    background-color: coral;
+}
+#healthy h1 {
+    text-align: center;
+}
+#healthBenefits {
+    width: 693px;
+    text-align: center;   
+}
+#healthy div {
+    display: inline-block;
+    vertical-align: top;
+    margin: 0em 4em 0em 0em;
+}
+#essentials div {
+    display: inline-block;
+    margin: 0em 2.8em 0em 0em;
+}
+button.margins {
+    position: relative;
+    top: -194px;
+    left: 1180px;
+}
+#essentials h1 {
+    text-align: center;
+}
+#essentials {
+    margin-top: -28px;
+}
+button.third {
+    position: relative;
+    top: -83px;
+    left: 0px;
+}
+#topButton {
+    position: absolute;
+    top: -61px;
+    left: 341px;
+}
+footer li {
+    display: inline-block;
+    margin-left: 30px;
+}
+#footerBar {
+    display: inline-block;
+    margin: 18px -5px -65px -39px;   
+}
+footer {
+    text-align: center;
+    /*background-color: rgb(106, 106, 167);*/
+    height: 50px;
+}
+footer a {
+    text-decoration: none;
+}
+.Review {
+    width: 474px;
+    display: inline-block;
+}
+.commentInput {
+    width: 130px;
+    display: inline-block;
+}
+article h1 {
+    text-align: center;   
+}
+article {
+    background-color: coral;
+}
+header {
+    background-color: coral;
+    margin: 0px 30px;
+}
+article h3 {
+    text-align: center;
+}
+article p {
+    text-align: center;
+}
+#essentials {
+    height: 345px;
+}
+.sizeH1 {
+    font-size: 38px;
+}
